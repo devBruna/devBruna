@@ -1,4 +1,8 @@
-# Hey!💻💡📚
+# Hello World!💻💡📚
+
+- ✨ Eu sou Bruna Ribeiro
+- 🔭 Estou trabalhando com testes manuais de sistema
+- 🌱 e aprendendo automação de processos - RPA.
 
   ##
 
