@@ -1,8 +1,6 @@
-
-<img align="right" width="150" style="border-radius: 25px; display: block" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpeg"/>
-
 # Hello, World! ✌🌍
 
+<img align="right" width="150" src="https://github.com/devBruna/devBruna/blob/main/imagem.png.webp"/>
 
   - ✨ Eu sou Bruna Ribeiro .
   - 🔭 Estou trabalhando com testes manuais de sistema .
