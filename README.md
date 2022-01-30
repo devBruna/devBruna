@@ -1,6 +1,6 @@
 # Hello World!💻💡📚
 
-<img align="right" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpg" width="325"/>
+<img align="right" width="125" style="border-radius: 25px; display: block; margin: auto" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpg"/>
 
 - ✨ Eu sou Bruna Ribeiro
 - 🔭 Estou trabalhando com testes manuais de sistema
@@ -15,9 +15,9 @@
 </div>
  
 <div>
-   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 
  ##
