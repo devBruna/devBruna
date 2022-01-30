@@ -1,7 +1,7 @@
 # Hello World!💻💡📚
 
 <div>
-  <img align="right" width="125" style="border-radius: 25px; display: block; margin: auto" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpg"/>
+  <img align="right" width="125" style="border-radius: 25px; display: block; margin: auto" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpeg"/>
 
   - ✨ Eu sou Bruna Ribeiro
   - 🔭 Estou trabalhando com testes manuais de sistema
