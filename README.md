@@ -1,12 +1,15 @@
-# Hello World!💻💡📚
 
-<div>
-  <img align="right" width="125" style="border-radius: 25px; display: block; margin: auto" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpeg"/>
+<img align="right" width="150" style="border-radius: 25px; display: block" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpeg"/>
 
-  - ✨ Eu sou Bruna Ribeiro
-  - 🔭 Estou trabalhando com testes manuais de sistema
-  - 🌱 e aprendendo automação de processos - RPA.
-</div>  
+# Hello, World! ✌🌍
+
+
+  - ✨ Eu sou Bruna Ribeiro .
+  - 🔭 Estou trabalhando com testes manuais de sistema .
+  - 🌱 Aprendendo automação de processos - RPA .
+  - ♥ Amo tecnologia, códigos e desafios .
+  - 🎯 Meu objetivo é ser a melhor dev que eu puder ser .
+
 
   ##
 
@@ -34,17 +37,3 @@
 </div>
  
 
-<!--
-**devBruna/devBruna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
