@@ -1,5 +1,7 @@
 # Hello World!💻💡📚
 
+<img align="right" src="https://github.com/felipesantos10/felipesantos10/blob/master/imagem.jpg" width="325"/>
+
 - ✨ Eu sou Bruna Ribeiro
 - 🔭 Estou trabalhando com testes manuais de sistema
 - 🌱 e aprendendo automação de processos - RPA.
