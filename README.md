@@ -1,10 +1,12 @@
 # Hello World!💻💡📚
 
-<img align="right" width="125" style="border-radius: 25px; display: block; margin: auto" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpg"/>
+<div>
+  <img align="right" width="125" style="border-radius: 25px; display: block; margin: auto" src="https://github.com/devBruna/devBruna/blob/main/imagem.jpg"/>
 
-- ✨ Eu sou Bruna Ribeiro
-- 🔭 Estou trabalhando com testes manuais de sistema
-- 🌱 e aprendendo automação de processos - RPA.
+  - ✨ Eu sou Bruna Ribeiro
+  - 🔭 Estou trabalhando com testes manuais de sistema
+  - 🌱 e aprendendo automação de processos - RPA.
+</div>  
 
   ##
 
