@@ -4,7 +4,7 @@
 
   - ✨ Eu sou Bruna Ribeiro .
   - 🔭 Estou trabalhando com testes manuais de sistema .
-  - 🌱 Aprendendo automação de processos - RPA .
+  - 🌱 Aprendendo programação Web .
   - ♥ Amo tecnologia, códigos e desafios .
   - 🎯 Meu objetivo é ser a melhor dev que eu puder ser .
 
