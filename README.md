@@ -3,10 +3,10 @@
 <img align="right" width="150" src="https://github.com/devBruna/devBruna/blob/main/imagem.png.webp"/>
 
   - ✨ Eu sou Bruna Ribeiro .
-  - 🔭 Estou trabalhando com testes manuais de sistema .
-  - 🌱 Aprendendo programação Web .
-  - ♥ Amo tecnologia, códigos e desafios .
-  - 🎯 Meu objetivo é ser a melhor dev que eu puder ser .
+  - 🔭 Estou trabalhando com desenvolvimento Full-Stack (C#, CSS, Bootstrap e JS).
+  - 🌱 Aprendendo programação mobile.
+  - ♥ Amo tecnologia, inovação e desafios .
+  - 🎯 Meu objetivo levar tecnologia para todos os lugares possíveis.
 
 
   ##
