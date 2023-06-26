@@ -18,10 +18,9 @@
 </div>
  
 <div>
-   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original-wordmark.svg" />
+   <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="C#" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 
 
  ##
