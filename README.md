@@ -5,7 +5,7 @@
   - ✨ Eu sou Bruna Ribeiro .
   - 🔭 Estou trabalhando com desenvolvimento Full-Stack (C#, CSS, Bootstrap, JavaScript e JQuery).
   - 🌱 Aprendendo programação mobile.
-  - ♥ Amo tecnologia, inovação e desafios .
+  - ♥ Amo tecnologia, inovação e novos desafios .
   - 🎯 Meu objetivo levar tecnologia para todos os lugares possíveis.
 
 
