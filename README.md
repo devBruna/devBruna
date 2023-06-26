@@ -3,7 +3,7 @@
 <img align="right" width="150" src="https://github.com/devBruna/devBruna/blob/main/imagem.png.webp"/>
 
   - ✨ Eu sou Bruna Ribeiro .
-  - 🔭 Estou trabalhando com desenvolvimento Full-Stack (C#, CSS, Bootstrap e JS).
+  - 🔭 Estou trabalhando com desenvolvimento Full-Stack (C#, CSS, Bootstrap, JavaScript e JQuery).
   - 🌱 Aprendendo programação mobile.
   - ♥ Amo tecnologia, inovação e desafios .
   - 🎯 Meu objetivo levar tecnologia para todos os lugares possíveis.
